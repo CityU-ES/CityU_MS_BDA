@@ -16,8 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-	name: Introduction
-	weight: 1
+	example:
+		name: Introduction
+		weight: 1
 ---
 Many young Hong Kong managers may realize that their undergraduate studies have not sufficiently prepared them in one particular area to meet the challenge of today's complex managerial problems present: analytical rigor. The Master of Science in Business and Data Analytics (MScBDA) program has been developed to provide the modern quantitative skills that will facilitate problem identification, formulation, and analysis at all levels of management in the business, industry, and public sectors.
 
