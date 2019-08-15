@@ -5,7 +5,7 @@ summary: Department of Infomation Systems & Department of Management Sciences
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Introduction
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -32,7 +32,4 @@ As Hong Kong enters into a new era of development, personnel with analytical ski
 *   engineering;
 and whose career path has led them in the direction where quantitative analysis has a significant role. Preference will be given to local Hong Kong applicants.
 
-The MScQAB program is unique in Hong Kong in that it offers many graduates of Hong Kong tertiary institutions an opportunity to enhance their analytical skills and become more effective decision makers in their organizations. Many of our graduates are holding managerial positions in business and industrial sectors.
-
-*This programme is formerly titled as Master of Arts in Quantitative Analysis for Business. Starting from 2019-20, the award title of the programme is changed to Master of Science in Business and Data Analytics (MScBDA).
-
+The MScBDA program is unique in Hong Kong in that it offers many graduates of Hong Kong tertiary institutions an opportunity to enhance their analytical skills and become more effective decision makers in their organizations. Many of our graduates are holding managerial positions in business and industrial sectors.
