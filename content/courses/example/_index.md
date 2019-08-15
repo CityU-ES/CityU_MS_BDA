@@ -1,8 +1,10 @@
 ---
 # Course title, summary, and position.
-# linktitle: An Example Course
-# summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.ajsdfsajk][\[poiuyftgyuikp[;ptretp]
-# weight: 1
+linktitle: Master of Science in Business and Data Analytics
+理學碩士（商業及數據分析）
+summary: Department of Infomation Systems
+Department of Management Sciences
+weight: 1
 
 # Page metadata.
 title: Overview
@@ -15,9 +17,9 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-    name: Overview
-    weight: 1
+# menu:
+#  name: Overview
+#   weight: 1
 ---
 
 ## Flexibility
